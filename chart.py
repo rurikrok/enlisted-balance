@@ -136,4 +136,4 @@ def write_chart(averages, output_folder, parameters, map_name=None):
         # Close the figure
         plt.close(fig)
 
-        print(campaign + ' zones reward time chart created')
+        print(campaign + ' zones cap reward chart created')
