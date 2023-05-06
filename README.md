@@ -3,9 +3,9 @@
 
 ## The workflow is as follows:
 
-1. Data on the number of reinforcements (score_cap), capture time (cap_time), and the number of reinforcements for capturing zones (cap_reward) were collected from the invasion mode map files. The data is available in JSON format [data.json](https://github.com/username/repository/tree/master/output/data.json) and Excel format [data.xlsx](https://github.com/username/repository/tree/master/output/data.xlsx)
+1. Data on the number of reinforcements (score_cap), capture time (cap_time), and the number of reinforcements for capturing zones (cap_reward) were collected from the invasion mode map files. The data is available in JSON format [data.json](https://github.com/rurikrok/enlisted-balance/tree/master/output/data.json) and Excel format [data.xlsx](https://github.com/rurikrok/enlisted-balance/tree/master/output/data.xlsx)
 
-2. Next, the average values of the number of reinforcements (score_cap), capture time (cap_time), and the number of reinforcements for capturing zones (cap_reward) are calculated for each campaign and faction. The data is available in the TXT file format [average.txt](https://github.com/username/repository/tree/master/output/average.txt)
+2. Next, the average values of the number of reinforcements (score_cap), capture time (cap_time), and the number of reinforcements for capturing zones (cap_reward) are calculated for each campaign and faction. The data is available in the TXT file format [average.txt](https://github.com/rurikrok/enlisted-balance/tree/master/output/average.txt)
 
 3. To visualize the average values data, graphs are created based on these data. The files can be found in the [output/charts](https://github.com/rurikrok/enlisted-balance/tree/master/output/charts) folder
 
@@ -17,10 +17,10 @@
 ## Логика работы:
 
 1. Из файлов карт режима вторжения собраны данные о количестве подкреплений (score_cap), времени захвата зон (cap_time) и количества подкреплений за захват зон (cap_reward).
-Эти данные доступны в виде json-файла [data.json](https://github.com/username/repository/tree/master/output/data.json) и excel-файла [data.xlsx](https://github.com/username/repository/tree/master/output/data.xlsx)
+Эти данные доступны в виде json-файла [data.json](https://github.com/rurikrok/enlisted-balance/tree/master/output/data.json) и excel-файла [data.xlsx](https://github.com/rurikrok/enlisted-balance/tree/master/output/data.xlsx)
 
 2. Далее для каждой кампании и стороны вычисляются средние значения количества подкреплений (score_cap), времени захвата зон (cap_time) и количества подкреплений за захват зон (cap_reward).
-Эти данные доступны в виде txt-файла [average.txt](https://github.com/username/repository/tree/master/output/average.txt) 
+Эти данные доступны в виде txt-файла [average.txt](https://github.com/rurikrok/enlisted-balance/tree/master/output/average.txt) 
 
 3. Для наглядности на основе данных о средних значениях строятся графики. Файлы лежат в папке [output/charts](https://github.com/rurikrok/enlisted-balance/tree/master/output/charts)
 
