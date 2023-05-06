@@ -1,5 +1,5 @@
 # This one-day project is an attempt to analyze the balance of Enlisted game mode
-# The resulting data can be found in the [output](https://github.com/rurikrok/enlisted-balance/tree/master/output) folder or [output.zip](https://github.com/rurikrok/enlisted-balance/tree/master/output/output.zip) file
+# The resulting data can be found in the [output](https://github.com/rurikrok/enlisted-balance/tree/master/output) folder or [output.zip](https://github.com/rurikrok/enlisted-balance/tree/master/output.zip) file
 
 ## The workflow is as follows:
 
@@ -12,7 +12,7 @@
 4. In order to conduct an honest balance analysis, "paired" maps are searched for - differing only in the attacking faction. Text files with the resulting average values and graphs can be found in the [output/pair_maps](https://github.com/rurikrok/enlisted-balance/tree/master/output/pair_maps) folder
 
 # Этот однодневный проект - попытка проанализировать баланс Enlisted
-# Полученные данные можно посмотреть в папке  [output](https://github.com/rurikrok/enlisted-balance/tree/master/output) или скачать архивом [output.zip](https://github.com/rurikrok/enlisted-balance/tree/master/output/output.zip)
+# Полученные данные можно посмотреть в папке  [output](https://github.com/rurikrok/enlisted-balance/tree/master/output) или скачать архивом [output.zip](https://github.com/rurikrok/enlisted-balance/tree/master/output.zip)
 
 ## Логика работы:
 
