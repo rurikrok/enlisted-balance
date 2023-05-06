@@ -1,7 +1,0 @@
-selWeaponVar:t="sov_pm_2"
-
-ownerAnimVars{
-  gun_offset_across:r=0.0
-  gun_offset_along:r=0.2
-  gun_offset_up:r=-0.13
-}

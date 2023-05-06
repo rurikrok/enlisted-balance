@@ -1,0 +1,48 @@
+Moscow USSR average score_cap: 1700.00
+----------------------------------------
+Moscow Germany average score_cap: 2000.00
+----------------------------------------
+Moscow USSR average cap_time: 84.38
+----------------------------------------
+Moscow Germany average cap_time: 55.00
+----------------------------------------
+Moscow USSR average cap_reward: 250.00
+----------------------------------------
+Moscow Germany average cap_reward: 500.00
+----------------------------------------
+Moscow Ussr average cap_time for zone 1: 70.00
+----------------------------------------
+Moscow Ussr average cap_time for zone 2: 80.00
+----------------------------------------
+Moscow Ussr average cap_time for zone 3: 90.00
+----------------------------------------
+Moscow Ussr average cap_time for zone 4: 92.50
+----------------------------------------
+Moscow Ussr average cap_time for zone 5: 85.00
+----------------------------------------
+Moscow Germany average cap_time for zone 1: 40.00
+----------------------------------------
+Moscow Germany average cap_time for zone 2: 50.00
+----------------------------------------
+Moscow Germany average cap_time for zone 3: 60.00
+----------------------------------------
+Moscow Germany average cap_time for zone 4: 60.00
+----------------------------------------
+Moscow Germany average cap_time for zone 5: 60.00
+----------------------------------------
+Moscow Ussr average cap_reward for zone 1: 250.00
+----------------------------------------
+Moscow Ussr average cap_reward for zone 2: 250.00
+----------------------------------------
+Moscow Ussr average cap_reward for zone 3: 250.00
+----------------------------------------
+Moscow Ussr average cap_reward for zone 4: 250.00
+----------------------------------------
+Moscow Germany average cap_reward for zone 1: 500.00
+----------------------------------------
+Moscow Germany average cap_reward for zone 2: 500.00
+----------------------------------------
+Moscow Germany average cap_reward for zone 3: 500.00
+----------------------------------------
+Moscow Germany average cap_reward for zone 4: 500.00
+----------------------------------------

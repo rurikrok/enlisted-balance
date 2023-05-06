@@ -1,5 +1,0 @@
-minimalist_hud_settings{
-  _singleton:b=yes
-  _tags:t="gameClient"
-  minimalistHud:b=no
-}

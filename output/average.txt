@@ -1,0 +1,288 @@
+Moscow USSR average score_cap: 1815.38
+----------------------------------------
+Moscow Germany average score_cap: 2483.33
+----------------------------------------
+Berlin USSR average score_cap: 1797.22
+----------------------------------------
+Berlin Germany average score_cap: 2039.29
+----------------------------------------
+Stalingrad USSR average score_cap: 1911.11
+----------------------------------------
+Stalingrad Germany average score_cap: 2181.82
+----------------------------------------
+Normandy USA average score_cap: 2130.56
+----------------------------------------
+Normandy Germany average score_cap: 1771.43
+----------------------------------------
+Tunisia USA average score_cap: 1936.36
+----------------------------------------
+Tunisia Germany average score_cap: 2050.00
+----------------------------------------
+Pacific USA average score_cap: 2016.67
+----------------------------------------
+Pacific Japan average score_cap: 1900.00
+----------------------------------------
+Moscow USSR average cap_time: 76.39
+----------------------------------------
+Moscow Germany average cap_time: 38.85
+----------------------------------------
+Berlin USSR average cap_time: 64.00
+----------------------------------------
+Berlin Germany average cap_time: 58.90
+----------------------------------------
+Stalingrad USSR average cap_time: 73.44
+----------------------------------------
+Stalingrad Germany average cap_time: 52.54
+----------------------------------------
+Normandy USA average cap_time: 45.88
+----------------------------------------
+Normandy Germany average cap_time: 76.48
+----------------------------------------
+Tunisia USA average cap_time: 65.73
+----------------------------------------
+Tunisia Germany average cap_time: 58.02
+----------------------------------------
+Pacific USA average cap_time: 60.53
+----------------------------------------
+Pacific Japan average cap_time: 65.53
+----------------------------------------
+Moscow USSR average cap_reward: 261.24
+----------------------------------------
+Moscow Germany average cap_reward: 500.00
+----------------------------------------
+Berlin USSR average cap_reward: 286.96
+----------------------------------------
+Berlin Germany average cap_reward: 382.11
+----------------------------------------
+Stalingrad USSR average cap_reward: 242.47
+----------------------------------------
+Stalingrad Germany average cap_reward: 371.50
+----------------------------------------
+Normandy USA average cap_reward: 444.93
+----------------------------------------
+Normandy Germany average cap_reward: 249.16
+----------------------------------------
+Tunisia USA average cap_reward: 259.21
+----------------------------------------
+Tunisia Germany average cap_reward: 341.30
+----------------------------------------
+Pacific USA average cap_reward: 314.89
+----------------------------------------
+Pacific Japan average cap_reward: 303.19
+----------------------------------------
+Moscow Ussr average cap_time for zone 1: 64.12
+----------------------------------------
+Moscow Ussr average cap_time for zone 2: 75.77
+----------------------------------------
+Moscow Ussr average cap_time for zone 3: 83.00
+----------------------------------------
+Moscow Ussr average cap_time for zone 4: 82.12
+----------------------------------------
+Moscow Ussr average cap_time for zone 5: 73.42
+----------------------------------------
+Moscow Germany average cap_time for zone 1: 32.50
+----------------------------------------
+Moscow Germany average cap_time for zone 2: 36.04
+----------------------------------------
+Moscow Germany average cap_time for zone 3: 37.89
+----------------------------------------
+Moscow Germany average cap_time for zone 4: 42.50
+----------------------------------------
+Moscow Germany average cap_time for zone 5: 44.71
+----------------------------------------
+Berlin Ussr average cap_time for zone 1: 58.26
+----------------------------------------
+Berlin Ussr average cap_time for zone 2: 66.41
+----------------------------------------
+Berlin Ussr average cap_time for zone 3: 66.11
+----------------------------------------
+Berlin Ussr average cap_time for zone 4: 64.70
+----------------------------------------
+Berlin Ussr average cap_time for zone 5: 63.00
+----------------------------------------
+Berlin Germany average cap_time for zone 1: 52.35
+----------------------------------------
+Berlin Germany average cap_time for zone 2: 59.80
+----------------------------------------
+Berlin Germany average cap_time for zone 3: 56.73
+----------------------------------------
+Berlin Germany average cap_time for zone 4: 61.85
+----------------------------------------
+Berlin Germany average cap_time for zone 5: 62.37
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 1: 64.00
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 2: 75.00
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 3: 79.31
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 4: 75.91
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 5: 69.74
+----------------------------------------
+Stalingrad Germany average cap_time for zone 1: 45.65
+----------------------------------------
+Stalingrad Germany average cap_time for zone 2: 52.59
+----------------------------------------
+Stalingrad Germany average cap_time for zone 3: 56.77
+----------------------------------------
+Stalingrad Germany average cap_time for zone 4: 53.85
+----------------------------------------
+Stalingrad Germany average cap_time for zone 5: 52.17
+----------------------------------------
+Normandy Usa average cap_time for zone 1: 40.79
+----------------------------------------
+Normandy Usa average cap_time for zone 2: 47.06
+----------------------------------------
+Normandy Usa average cap_time for zone 3: 47.50
+----------------------------------------
+Normandy Usa average cap_time for zone 4: 48.33
+----------------------------------------
+Normandy Usa average cap_time for zone 5: 45.90
+----------------------------------------
+Normandy Germany average cap_time for zone 1: 67.07
+----------------------------------------
+Normandy Germany average cap_time for zone 2: 78.57
+----------------------------------------
+Normandy Germany average cap_time for zone 3: 81.67
+----------------------------------------
+Normandy Germany average cap_time for zone 4: 80.69
+----------------------------------------
+Normandy Germany average cap_time for zone 5: 73.83
+----------------------------------------
+Tunisia Usa average cap_time for zone 1: 57.78
+----------------------------------------
+Tunisia Usa average cap_time for zone 2: 67.62
+----------------------------------------
+Tunisia Usa average cap_time for zone 3: 71.58
+----------------------------------------
+Tunisia Usa average cap_time for zone 4: 68.33
+----------------------------------------
+Tunisia Usa average cap_time for zone 5: 61.54
+----------------------------------------
+Tunisia Germany average cap_time for zone 1: 51.47
+----------------------------------------
+Tunisia Germany average cap_time for zone 2: 60.79
+----------------------------------------
+Tunisia Germany average cap_time for zone 3: 62.35
+----------------------------------------
+Tunisia Germany average cap_time for zone 4: 61.25
+----------------------------------------
+Tunisia Germany average cap_time for zone 5: 52.50
+----------------------------------------
+Pacific Usa average cap_time for zone 1: 50.00
+----------------------------------------
+Pacific Usa average cap_time for zone 2: 61.54
+----------------------------------------
+Pacific Usa average cap_time for zone 3: 62.31
+----------------------------------------
+Pacific Usa average cap_time for zone 4: 64.29
+----------------------------------------
+Pacific Usa average cap_time for zone 5: 59.00
+----------------------------------------
+Pacific Japan average cap_time for zone 1: 57.14
+----------------------------------------
+Pacific Japan average cap_time for zone 2: 65.00
+----------------------------------------
+Pacific Japan average cap_time for zone 3: 69.62
+----------------------------------------
+Pacific Japan average cap_time for zone 4: 68.00
+----------------------------------------
+Pacific Japan average cap_time for zone 5: 63.00
+----------------------------------------
+Moscow Ussr average cap_reward for zone 1: 264.71
+----------------------------------------
+Moscow Ussr average cap_reward for zone 2: 278.85
+----------------------------------------
+Moscow Ussr average cap_reward for zone 3: 250.00
+----------------------------------------
+Moscow Ussr average cap_reward for zone 4: 250.00
+----------------------------------------
+Moscow Germany average cap_reward for zone 1: 500.00
+----------------------------------------
+Moscow Germany average cap_reward for zone 2: 500.00
+----------------------------------------
+Moscow Germany average cap_reward for zone 3: 500.00
+----------------------------------------
+Moscow Germany average cap_reward for zone 4: 500.00
+----------------------------------------
+Berlin Ussr average cap_reward for zone 1: 260.87
+----------------------------------------
+Berlin Ussr average cap_reward for zone 2: 257.81
+----------------------------------------
+Berlin Ussr average cap_reward for zone 3: 342.59
+----------------------------------------
+Berlin Ussr average cap_reward for zone 4: 287.88
+----------------------------------------
+Berlin Germany average cap_reward for zone 1: 367.65
+----------------------------------------
+Berlin Germany average cap_reward for zone 2: 390.00
+----------------------------------------
+Berlin Germany average cap_reward for zone 3: 382.69
+----------------------------------------
+Berlin Germany average cap_reward for zone 4: 383.33
+----------------------------------------
+Stalingrad Ussr average cap_reward for zone 1: 250.00
+----------------------------------------
+Stalingrad Ussr average cap_reward for zone 2: 231.82
+----------------------------------------
+Stalingrad Ussr average cap_reward for zone 3: 239.66
+----------------------------------------
+Stalingrad Ussr average cap_reward for zone 4: 250.00
+----------------------------------------
+Stalingrad Germany average cap_reward for zone 1: 380.43
+----------------------------------------
+Stalingrad Germany average cap_reward for zone 2: 361.11
+----------------------------------------
+Stalingrad Germany average cap_reward for zone 3: 379.03
+----------------------------------------
+Stalingrad Germany average cap_reward for zone 4: 365.38
+----------------------------------------
+Normandy Usa average cap_reward for zone 1: 456.58
+----------------------------------------
+Normandy Usa average cap_reward for zone 2: 448.53
+----------------------------------------
+Normandy Usa average cap_reward for zone 3: 425.00
+----------------------------------------
+Normandy Usa average cap_reward for zone 4: 451.39
+----------------------------------------
+Normandy Germany average cap_reward for zone 1: 248.28
+----------------------------------------
+Normandy Germany average cap_reward for zone 2: 244.64
+----------------------------------------
+Normandy Germany average cap_reward for zone 3: 250.00
+----------------------------------------
+Normandy Germany average cap_reward for zone 4: 253.45
+----------------------------------------
+Tunisia Usa average cap_reward for zone 1: 250.00
+----------------------------------------
+Tunisia Usa average cap_reward for zone 2: 273.81
+----------------------------------------
+Tunisia Usa average cap_reward for zone 3: 250.00
+----------------------------------------
+Tunisia Usa average cap_reward for zone 4: 261.11
+----------------------------------------
+Tunisia Germany average cap_reward for zone 1: 326.47
+----------------------------------------
+Tunisia Germany average cap_reward for zone 2: 355.26
+----------------------------------------
+Tunisia Germany average cap_reward for zone 3: 326.47
+----------------------------------------
+Tunisia Germany average cap_reward for zone 4: 356.25
+----------------------------------------
+Pacific Usa average cap_reward for zone 1: 264.29
+----------------------------------------
+Pacific Usa average cap_reward for zone 2: 265.38
+----------------------------------------
+Pacific Usa average cap_reward for zone 3: 384.62
+----------------------------------------
+Pacific Usa average cap_reward for zone 4: 321.43
+----------------------------------------
+Pacific Japan average cap_reward for zone 1: 321.43
+----------------------------------------
+Pacific Japan average cap_reward for zone 2: 333.33
+----------------------------------------
+Pacific Japan average cap_reward for zone 3: 288.46
+----------------------------------------
+Pacific Japan average cap_reward for zone 4: 283.33
+----------------------------------------

@@ -1,0 +1,48 @@
+Tunisia USA average score_cap: 2000.00
+----------------------------------------
+Tunisia Germany average score_cap: 2200.00
+----------------------------------------
+Tunisia USA average cap_time: 80.00
+----------------------------------------
+Tunisia Germany average cap_time: 62.22
+----------------------------------------
+Tunisia USA average cap_reward: 337.50
+----------------------------------------
+Tunisia Germany average cap_reward: 275.00
+----------------------------------------
+Tunisia Usa average cap_time for zone 1: 70.00
+----------------------------------------
+Tunisia Usa average cap_time for zone 2: 80.00
+----------------------------------------
+Tunisia Usa average cap_time for zone 3: 90.00
+----------------------------------------
+Tunisia Usa average cap_time for zone 4: 80.00
+----------------------------------------
+Tunisia Usa average cap_time for zone 5: 80.00
+----------------------------------------
+Tunisia Germany average cap_time for zone 1: 50.00
+----------------------------------------
+Tunisia Germany average cap_time for zone 2: 60.00
+----------------------------------------
+Tunisia Germany average cap_time for zone 3: 70.00
+----------------------------------------
+Tunisia Germany average cap_time for zone 4: 70.00
+----------------------------------------
+Tunisia Germany average cap_time for zone 5: 60.00
+----------------------------------------
+Tunisia Usa average cap_reward for zone 1: 250.00
+----------------------------------------
+Tunisia Usa average cap_reward for zone 2: 500.00
+----------------------------------------
+Tunisia Usa average cap_reward for zone 3: 250.00
+----------------------------------------
+Tunisia Usa average cap_reward for zone 4: 350.00
+----------------------------------------
+Tunisia Germany average cap_reward for zone 1: 300.00
+----------------------------------------
+Tunisia Germany average cap_reward for zone 2: 250.00
+----------------------------------------
+Tunisia Germany average cap_reward for zone 3: 300.00
+----------------------------------------
+Tunisia Germany average cap_reward for zone 4: 250.00
+----------------------------------------

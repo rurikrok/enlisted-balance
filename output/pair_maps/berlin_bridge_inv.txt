@@ -1,0 +1,48 @@
+Berlin USSR average score_cap: 1900.00
+----------------------------------------
+Berlin Germany average score_cap: 2000.00
+----------------------------------------
+Berlin USSR average cap_time: 55.71
+----------------------------------------
+Berlin Germany average cap_time: 64.29
+----------------------------------------
+Berlin USSR average cap_reward: 250.00
+----------------------------------------
+Berlin Germany average cap_reward: 350.00
+----------------------------------------
+Berlin Ussr average cap_time for zone 1: 50.00
+----------------------------------------
+Berlin Ussr average cap_time for zone 2: 50.00
+----------------------------------------
+Berlin Ussr average cap_time for zone 3: 60.00
+----------------------------------------
+Berlin Ussr average cap_time for zone 4: 60.00
+----------------------------------------
+Berlin Ussr average cap_time for zone 5: 50.00
+----------------------------------------
+Berlin Germany average cap_time for zone 1: 50.00
+----------------------------------------
+Berlin Germany average cap_time for zone 2: 60.00
+----------------------------------------
+Berlin Germany average cap_time for zone 3: 70.00
+----------------------------------------
+Berlin Germany average cap_time for zone 4: 70.00
+----------------------------------------
+Berlin Germany average cap_time for zone 5: 60.00
+----------------------------------------
+Berlin Ussr average cap_reward for zone 1: 250.00
+----------------------------------------
+Berlin Ussr average cap_reward for zone 2: 250.00
+----------------------------------------
+Berlin Ussr average cap_reward for zone 3: 250.00
+----------------------------------------
+Berlin Ussr average cap_reward for zone 4: 250.00
+----------------------------------------
+Berlin Germany average cap_reward for zone 1: 350.00
+----------------------------------------
+Berlin Germany average cap_reward for zone 2: 350.00
+----------------------------------------
+Berlin Germany average cap_reward for zone 3: 350.00
+----------------------------------------
+Berlin Germany average cap_reward for zone 4: 350.00
+----------------------------------------

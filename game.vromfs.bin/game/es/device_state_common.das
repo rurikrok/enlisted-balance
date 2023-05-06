@@ -1,8 +1,0 @@
-module device_state_common shared
-
-enum DeviceAnimState
-  DEVICE_STATE_DISABLED
-  DEVICE_STATE_PREPARE
-  DEVICE_STATE_USE
-  DEVICE_STATE_FIRE
-  DEVICE_STATE_POST

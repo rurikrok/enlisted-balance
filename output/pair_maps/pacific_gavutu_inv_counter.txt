@@ -1,0 +1,48 @@
+Pacific USA average score_cap: 2000.00
+----------------------------------------
+Pacific Japan average score_cap: 1900.00
+----------------------------------------
+Pacific USA average cap_time: 58.75
+----------------------------------------
+Pacific Japan average cap_time: 55.00
+----------------------------------------
+Pacific USA average cap_reward: 250.00
+----------------------------------------
+Pacific Japan average cap_reward: 357.14
+----------------------------------------
+Pacific Usa average cap_time for zone 1: 50.00
+----------------------------------------
+Pacific Usa average cap_time for zone 2: 60.00
+----------------------------------------
+Pacific Usa average cap_time for zone 3: 60.00
+----------------------------------------
+Pacific Usa average cap_time for zone 4: 60.00
+----------------------------------------
+Pacific Usa average cap_time for zone 5: 60.00
+----------------------------------------
+Pacific Japan average cap_time for zone 1: 50.00
+----------------------------------------
+Pacific Japan average cap_time for zone 2: 60.00
+----------------------------------------
+Pacific Japan average cap_time for zone 3: 60.00
+----------------------------------------
+Pacific Japan average cap_time for zone 4: 50.00
+----------------------------------------
+Pacific Japan average cap_time for zone 5: 50.00
+----------------------------------------
+Pacific Usa average cap_reward for zone 1: 250.00
+----------------------------------------
+Pacific Usa average cap_reward for zone 2: 250.00
+----------------------------------------
+Pacific Usa average cap_reward for zone 3: 250.00
+----------------------------------------
+Pacific Usa average cap_reward for zone 4: 250.00
+----------------------------------------
+Pacific Japan average cap_reward for zone 1: 500.00
+----------------------------------------
+Pacific Japan average cap_reward for zone 2: 500.00
+----------------------------------------
+Pacific Japan average cap_reward for zone 3: 250.00
+----------------------------------------
+Pacific Japan average cap_reward for zone 4: 250.00
+----------------------------------------

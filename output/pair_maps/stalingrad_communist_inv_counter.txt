@@ -1,0 +1,48 @@
+Stalingrad USSR average score_cap: 1750.00
+----------------------------------------
+Stalingrad Germany average score_cap: 2000.00
+----------------------------------------
+Stalingrad USSR average cap_time: 90.00
+----------------------------------------
+Stalingrad Germany average cap_time: 60.77
+----------------------------------------
+Stalingrad USSR average cap_reward: 231.82
+----------------------------------------
+Stalingrad Germany average cap_reward: 250.00
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 1: 80.00
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 2: 90.00
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 3: 100.00
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 4: 90.00
+----------------------------------------
+Stalingrad Ussr average cap_time for zone 5: 80.00
+----------------------------------------
+Stalingrad Germany average cap_time for zone 1: 45.00
+----------------------------------------
+Stalingrad Germany average cap_time for zone 2: 60.00
+----------------------------------------
+Stalingrad Germany average cap_time for zone 3: 70.00
+----------------------------------------
+Stalingrad Germany average cap_time for zone 4: 60.00
+----------------------------------------
+Stalingrad Germany average cap_time for zone 5: 60.00
+----------------------------------------
+Stalingrad Ussr average cap_reward for zone 1: 250.00
+----------------------------------------
+Stalingrad Ussr average cap_reward for zone 2: 150.00
+----------------------------------------
+Stalingrad Ussr average cap_reward for zone 3: 250.00
+----------------------------------------
+Stalingrad Ussr average cap_reward for zone 4: 250.00
+----------------------------------------
+Stalingrad Germany average cap_reward for zone 1: 250.00
+----------------------------------------
+Stalingrad Germany average cap_reward for zone 2: 250.00
+----------------------------------------
+Stalingrad Germany average cap_reward for zone 3: 250.00
+----------------------------------------
+Stalingrad Germany average cap_reward for zone 4: 250.00
+----------------------------------------

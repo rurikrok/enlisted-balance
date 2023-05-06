@@ -1,4 +1,0 @@
-ri_shadows_invalidate{
-  ri_texture_gen:i=0
-  _singleton:b=yes
-}

@@ -1,0 +1,48 @@
+Normandy USA average score_cap: 2000.00
+----------------------------------------
+Normandy Germany average score_cap: 1500.00
+----------------------------------------
+Normandy USA average cap_time: 45.71
+----------------------------------------
+Normandy Germany average cap_time: 45.71
+----------------------------------------
+Normandy USA average cap_reward: 500.00
+----------------------------------------
+Normandy Germany average cap_reward: 500.00
+----------------------------------------
+Normandy Usa average cap_time for zone 1: 40.00
+----------------------------------------
+Normandy Usa average cap_time for zone 2: 50.00
+----------------------------------------
+Normandy Usa average cap_time for zone 3: 50.00
+----------------------------------------
+Normandy Usa average cap_time for zone 4: 45.00
+----------------------------------------
+Normandy Usa average cap_time for zone 5: 40.00
+----------------------------------------
+Normandy Germany average cap_time for zone 1: 40.00
+----------------------------------------
+Normandy Germany average cap_time for zone 2: 50.00
+----------------------------------------
+Normandy Germany average cap_time for zone 3: 50.00
+----------------------------------------
+Normandy Germany average cap_time for zone 4: 45.00
+----------------------------------------
+Normandy Germany average cap_time for zone 5: 40.00
+----------------------------------------
+Normandy Usa average cap_reward for zone 1: 500.00
+----------------------------------------
+Normandy Usa average cap_reward for zone 2: 500.00
+----------------------------------------
+Normandy Usa average cap_reward for zone 3: 500.00
+----------------------------------------
+Normandy Usa average cap_reward for zone 4: 500.00
+----------------------------------------
+Normandy Germany average cap_reward for zone 1: 500.00
+----------------------------------------
+Normandy Germany average cap_reward for zone 2: 500.00
+----------------------------------------
+Normandy Germany average cap_reward for zone 3: 500.00
+----------------------------------------
+Normandy Germany average cap_reward for zone 4: 500.00
+----------------------------------------
