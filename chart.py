@@ -131,7 +131,7 @@ def write_chart(averages, output_folder, parameters, map_name=None):
             fig.suptitle(campaign.capitalize())
 
         # Save the figure as a PNG file
-        fig.savefig(output_folder + campaign.capitalize() + ' Zones Reward Time' + '.png', dpi=300, bbox_inches='tight')
+        fig.savefig(output_folder + campaign.capitalize() + ' Zones Cap Reward' + '.png', dpi=300, bbox_inches='tight')
 
         # Close the figure
         plt.close(fig)
